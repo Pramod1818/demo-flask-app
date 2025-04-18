@@ -1,5 +1,4 @@
 from flask import Flask
-import wrongmodule
 
 app = Flask(__name__)
 
